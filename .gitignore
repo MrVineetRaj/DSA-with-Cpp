@@ -1,0 +1,7 @@
+*
+!*.*
+!*/
+.vscode/
+input.txt
+output.txt
+node_modules/
